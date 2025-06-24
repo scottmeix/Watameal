@@ -1,0 +1,82 @@
+{
+  "generate_and_save_dish_images.dart": {
+    "old_identifier_name": "generateAndSaveDishImages",
+    "new_identifier_name": "generateAndSaveDishImages",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "b7b804377ac6457e707866c68f5de2846fb8471b6c5c851b226bb29deeae5860",
+    "original_checksum": "b7b804377ac6457e707866c68f5de2846fb8471b6c5c851b226bb29deeae5860"
+  },
+  "pick_image.dart": {
+    "old_identifier_name": "pickImage",
+    "new_identifier_name": "pickImage",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "a8566a643a00937ba6a2b5d045b82a3369f89da411720b687f46c3847e2b0071",
+    "original_checksum": "a8566a643a00937ba6a2b5d045b82a3369f89da411720b687f46c3847e2b0071"
+  },
+  "scan_and_store_grocery_items.dart": {
+    "old_identifier_name": "scanAndStoreGroceryItems",
+    "new_identifier_name": "scanAndStoreGroceryItems",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "dbaa8a432167930ade1e2071cb57e79e926ca4b3bf2c5523ca82772b5a253f79",
+    "original_checksum": "dbaa8a432167930ade1e2071cb57e79e926ca4b3bf2c5523ca82772b5a253f79"
+  },
+  "dish_recommendation_prompt.dart": {
+    "old_identifier_name": "dishRecommendationPrompt",
+    "new_identifier_name": "dishRecommendationPrompt",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "f7ad2352580109c6dc3178822c12e1ba403cea2e11db7cbc108f8e7102a449d8",
+    "original_checksum": "f7ad2352580109c6dc3178822c12e1ba403cea2e11db7cbc108f8e7102a449d8"
+  },
+  "initialization.dart": {
+    "old_identifier_name": "initialization",
+    "new_identifier_name": "initialization",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "fc755c6e7622f55e7a3fd560b026d246511a16850bab76d6a50c19f6911bf53e",
+    "original_checksum": "fc755c6e7622f55e7a3fd560b026d246511a16850bab76d6a50c19f6911bf53e"
+  },
+  "add_to_init_dish_local.dart": {
+    "old_identifier_name": "addToInitDishLocal",
+    "new_identifier_name": "addToInitDishLocal",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "5720aaf6fc26441a956556208e5956d1a98264f808c4bae07c8a62081901cf06",
+    "original_checksum": "5720aaf6fc26441a956556208e5956d1a98264f808c4bae07c8a62081901cf06"
+  },
+  "check_and_update_api_usage_limit.dart": {
+    "old_identifier_name": "checkAndUpdateApiUsageLimit",
+    "new_identifier_name": "checkAndUpdateApiUsageLimit",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "a1140621412e78312d8006f50d506f78f0b114a65e03bcb2db48db5ed40dfb61",
+    "original_checksum": "a1140621412e78312d8006f50d506f78f0b114a65e03bcb2db48db5ed40dfb61"
+  },
+  "supa_get_email_count.dart": {
+    "old_identifier_name": "supaGetEmailCount",
+    "new_identifier_name": "supaGetEmailCount",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "14909a4c83ed05625213738b83e7134c8dffb554be4437295e2f50803ae85964",
+    "original_checksum": "14909a4c83ed05625213738b83e7134c8dffb554be4437295e2f50803ae85964"
+  },
+  "custom_functions.dart": {
+    "old_identifier_name": "CustomFunctions",
+    "new_identifier_name": "CustomFunctions",
+    "type": "F",
+    "is_deleted": false,
+    "current_checksum": "cf44f73cef81e8dd150fc7b88fc613336476f47af621d0e4d70f4ae3127622c7",
+    "original_checksum": "cf44f73cef81e8dd150fc7b88fc613336476f47af621d0e4d70f4ae3127622c7"
+  },
+  "pubspec.yaml": {
+    "old_identifier_name": "pubspec.yaml",
+    "new_identifier_name": "pubspec.yaml",
+    "type": "D",
+    "is_deleted": false,
+    "current_checksum": "1c0b1f0a8ca10c3e436b36c719ab099a1a6eae12d7e4a58b6c97d193a242b1a5",
+    "original_checksum": "1c0b1f0a8ca10c3e436b36c719ab099a1a6eae12d7e4a58b6c97d193a242b1a5"
+  }
+}
