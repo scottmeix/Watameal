@@ -10,7 +10,7 @@
 
 ## Getting Started
 
-Download APK here:
+To give it a try, download the APK from here:
 https://drive.google.com/file/d/1yWUurosihwBna2IBwxx6ZbWOBU0BeY1W/view?usp=sharing
 
 
