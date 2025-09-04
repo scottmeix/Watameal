@@ -10,5 +10,7 @@
 
 ## Getting Started
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+Download APK here:
+https://drive.google.com/file/d/1yWUurosihwBna2IBwxx6ZbWOBU0BeY1W/view?usp=sharing
+
 
